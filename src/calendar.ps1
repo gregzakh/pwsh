@@ -1,4 +1,4 @@
-if (!$IsLinux) {
+if ($IsWindows) {
   Set-Alias -Name cal -Value Get-Calendar
 }
 
