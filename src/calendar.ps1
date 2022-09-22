@@ -54,7 +54,7 @@ function Get-Calendar {
         Fr  1  8 15 22 29
         Sa  2  9 16 23 30
     .EXAMPLE
-        PS C:\> Get-Culture -Full -Year 2023 -Invert
+        PS C:\> Get-Calendar -Full -Year 2023 -Invert
                                        2023
                January                February                  March
         Mo Tu We Th Fr Sa Su    Mo Tu We Th Fr Sa Su    Mo Tu We Th Fr Sa Su
